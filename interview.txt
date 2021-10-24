@@ -1,0 +1,21 @@
+What is PDF?
+What is CDF?
+explain about 1-std-dev, 2-std-dev, 3-std-dev range?
+What is Symmetric distribution, Skewness and Kurtosis?
+How to do Standard normal variate (z) and standardization?
+What is Kernel density estimation?
+Importance of Sampling distribution & Central Limit
+Importance of Q-Q Plot: Is a given random variable Gaussian distributed?
+What is Uniform Distribution and random number
+What Discrete and Continuous Uniform distributions?
+Explain about Bernoulli and Binomial distribution?
+What is Log-normal  and power law distribution?
+What is Power-law & Pareto distributions: PDF,
+Explain about Box-Cox/Power transform?
+What is Co-variance?
+Importance of Pearson Correlation Coefficient?
+Correlation vs Causation?
+What is Confidence Intervals?
+Confidence Interval vs Point estimate?
+Define Hypothesis Testing methodology, Null-hypothesis, test-statistic, p-value?
+How to do K-S Test for similarity of two distributions?
