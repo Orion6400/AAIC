@@ -1,0 +1,1 @@
+#   https://medium.freecodecamp.org/how-to-process-textual-data-using-tf-idf-in-python-cd2bbc0a94a3  [best to understand TF-IDF]
